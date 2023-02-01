@@ -1,5 +1,5 @@
 <div align="center">
-<img width="150px" src="122715711.png">
+<img width="150px" src="https://raw.githubusercontent.com/Chromium-Workshop/.github/main/profile/122715711.png">
 </div>
 
 <h1 align="center">Chromium Workshop</h1>
