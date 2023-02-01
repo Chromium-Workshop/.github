@@ -1,4 +1,4 @@
-# Chromium Workshop
+# Chromium Labs
 We do stuff
 
 ## Projects
